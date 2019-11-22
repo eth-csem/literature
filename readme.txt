@@ -19,11 +19,12 @@ A) Fichtner_GRL_2018.pdf: CSEM Generation I (comprising items 1 - 11 below)
 
 - Regional refinements ---
 
-5) Colli_Tectonophysics_2013.pdf: South Atlantic
-6) Fichtner_EPSL_2010.pdf: Australasia
-7) Simute_JGR_2016.pdf: Japanese Islands
-8) Fichtner_GJI_2013.pdf: Europe and western Asia
-9) Cubuk-Sabuncu_PEPI_2017.pdf: Western Turkey
-10) Fichtner_EPSL_2015.pdf: Western Mediterranean
-11) Krischer_JGR_2018.pdf: North America and North Atlantic
+5) Rickers_EPSL_2013.pdf: North Atlantic
+6) Colli_Tectonophysics_2013.pdf: South Atlantic
+7) Fichtner_EPSL_2010.pdf: Australasia
+8) Simute_JGR_2016.pdf: Japanese Islands
+9) Fichtner_GJI_2013.pdf: Europe and western Asia
+10) Cubuk-Sabuncu_PEPI_2017.pdf: Western Turkey
+11) Fichtner_EPSL_2015.pdf: Western Mediterranean
+12) Krischer_JGR_2018.pdf: North America and North Atlantic
 
